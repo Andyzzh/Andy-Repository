@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\LCD1602.obj",
+".\Objects\delay.obj",
+".\Objects\uart.obj" 
+TO ".\Objects\lcd" 
+PRINT(".\Listings\lcd.m51") RAMSIZE(256) 
